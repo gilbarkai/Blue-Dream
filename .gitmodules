@@ -1,0 +1,9 @@
+[submodule "Blue-Dream/vendor/spdlog"]
+	path = Blue-Dream/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "Blue-Dream/vendor/GLFW"]
+	path = Blue-Dream/vendor/GLFW
+	url = https://github.com/TheCherno/glfw
+[submodule "Blue-Dream/vendor/imgui"]
+	path = Blue-Dream/vendor/imgui
+	url = https://github.com/TheCherno/imGui
